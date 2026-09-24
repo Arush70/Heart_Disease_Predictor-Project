@@ -1,0 +1,7 @@
+# OS / editor / notebook clutter
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
+__pycache__/
+.idea/
+.vscode/
